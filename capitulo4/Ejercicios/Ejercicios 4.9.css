@@ -1,0 +1,37 @@
+table#mitabla {border-collapse: collapse;}
+td.bajo {background-color: #ff455e;}
+td.a {background-color: #243ff0;}
+td.aaa {background-color: #f8ff94;}
+
+thead.cabecera tr td {
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 15px;
+}
+
+ tfoot.pie tr td {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Georgia;
+    padding: 2px;
+}
+
+tbody.cuerpo tr td {
+    color: #ebebeb;
+    padding: 10px;
+}
+
+td {border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+}
+
+td { color:blue;}
+    a {
+         color:whitesmoke;
+        text-decoration:none;
+    }
+
+a:hover { color:red;}  
